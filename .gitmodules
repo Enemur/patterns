@@ -1,0 +1,6 @@
+[submodule "laba-1"]
+	path = laba-1
+	url = https://github.com/Enemur/pattern-laba-1
+[submodule "laba-2"]
+	path = laba-2
+	url = https://github.com/Enemur/pattern-laba-2
