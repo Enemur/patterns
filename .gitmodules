@@ -4,3 +4,6 @@
 [submodule "laba-2"]
 	path = laba-2
 	url = https://github.com/Enemur/pattern-laba-2
+[submodule "laba-3"]
+	path = laba-3
+	url = https://github.com/Enemur/pattern-laba-3
